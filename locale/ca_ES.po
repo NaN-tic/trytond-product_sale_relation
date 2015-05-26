@@ -1,0 +1,7 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "model:ir.action,name:act_product_sale_line_relation"
+msgid "Sale Lines"
+msgstr "Línies de venda"
